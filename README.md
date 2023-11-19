@@ -2,8 +2,7 @@
 
 Create a Python program in steps to fulfil the assigned tasks in the assessment.  
 [Explore the docs](https://github.com/Jawariayaseen97/python_final).  
-[Report Bug](https://github.com/dilancroos/python_final/issues).  
-[Request Feature](https://github.com/dilancroos/python_final/issues).
+
 
 ## TABLE OF CONTENTS
 
@@ -108,8 +107,8 @@ Your support means a lot to me. Please consider showing your appreciation by giv
 ## Contact
 
 Jawaria Yaseen <jawaria.yaseen@cri-paris.org>  
-Project Link: [https://github.com/Jawariayaseen97/python_final](https://github.com/lubnarahman/python_final)
-LinkedIN Link: (https://www.linkedin.com/in/jawaria-yaseen-974bba209/)
+Project Link: GitHub [https://github.com/Jawariayaseen97/python_final]()
+LinkedIN Link: https://www.linkedin.com/in/jawaria-yaseen-974bba209/
 
 [back to top](#readme-top)
 
