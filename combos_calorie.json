@@ -1,0 +1,59 @@
+// meals.json
+[
+    {
+        "id": "meal-002",
+        "name": "Cheese Burger",
+        "calories": 750,
+        "price": 7
+    },
+    {
+        "id": "meal-003",
+        "name": "Veggie Burger",
+        "calories": 400,
+        "price": 6
+    },
+    {
+        "id": "meal-004",
+        "name": "Vegan Burger",
+        "calories": 350,
+        "price": 6
+    },
+    {
+        "id": "meal-005",
+        "name": "Sweet Potatoes",
+        "calories": 230,
+        "price": 3
+    },
+    {
+        "id": "meal-006",
+        "name": "Salad",
+        "calories": 15,
+        "price": 4
+    },
+    {
+        "id": "meal-007",
+        "name": "Iced Tea",
+        "calories": 70,
+        "price": 2
+    },
+    {
+        "id": "meal-008",
+        "name": "Lemonade",
+        "calories": 90,
+        "price": 2
+    }
+]
+
+// combos.json
+[
+    {
+        "id": "cheesy-combo",
+        "name": "Cheesy Combo",
+        "mealIds": ["meal-002", "meal-005", "meal-008"],
+        "price": 11
+    },
+    {
+        "id": "veggie-combo",
+        "name": "Veggie Combo",
+        "mealIds": ["meal-003", "meal-005", "meal-007"],
+        "price": 10
